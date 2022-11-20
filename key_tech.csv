@@ -1,0 +1,539 @@
+cat_id,cat_area,cat_cn,cat_en
+281811,Technology,放大器,Amplifier
+282141,Technology,传染病,Infectious disease
+282215,Technology,建筑物,Building
+282229,Technology,无人机,Drones
+282253,Technology,分布式,Distributed system
+282320,Technology,病原体,Pathogen
+282328,Technology,超声速,Supersonic speed
+282332,Technology,微生物,Microorganism
+282346,Technology,传感器,Sensor
+282348,Technology,人工智能,artificial intelligence
+282404,Technology,加速器,Accelerator
+282518,Technology,水动力,Hydrodynamic force
+282681,Technology,相控阵,Phased array
+282690,Technology,机器人,Robot
+282739,Technology,半导体,Semiconductor
+282770,Technology,自动化,Automation
+282802,Technology,激光雷达,Lidar
+282842,Technology,自动驾驶,Autopilot
+283003,Technology,晶体管,Transistor
+283202,Technology,电磁波,electromagnetic wave
+283285,Technology,马赛克,Mosaic
+283358,Technology,蛋白质,Protein
+283386,Technology,伽马射线,Gamma ray
+283707,Technology,无人驾驶,Self-driving
+283724,Technology,目标识别,Target recognition
+283726,Technology,磁力计,Magnetometer
+283774,Technology,微电子,Microelectronics
+283791,Technology,自然语言处理,Natural language processing
+283925,Technology,飞行器,Aircraft
+284157,Technology,作战平台,Combat platform
+284184,Technology,微系统,Micro system
+284296,Technology,完整性,Integrity
+284333,Technology,折射率,Refractive index
+284390,Technology,体系结构,System structure
+284687,Technology,处理器,Processor
+284749,Technology,集成电路,Integrated circuit
+284767,Technology,Gps,Gps
+284936,Technology,超声波,Ultrasonic wave
+285044,Technology,嵌入式,Embedded system
+293019,Technology,微感应烧结工艺,Micro-induction sintering process
+293020,Technology,高精度惯性传感器,High precision inertial sensor
+293021,Technology,神经形态硬件,Neural morphological hardware
+293022,Technology,异质异构集成技术,Heterogeneous and heterogeneous integration technology
+293023,Technology,光学调制器,Optical modulator
+293024,Technology,分子计算概念及系统开发,The concept and system Development of Molecular Computing
+293025,Technology,空间环境测量新方法开发,Development of New methods for Space Environment Measurement
+293032,Technology,无人集群,Unmanned cluster
+293033,Technology,深海探测侦察,Deep sea exploration and reconnaissance
+293034,Technology,分布式多节点通信网络技术,Distributed multi-node communication network technology
+293035,Technology,新型混合能源、增升减阻技术,"New hybrid energy, lift and drag reduction technology"
+293036,Technology,舰基航空保障,Ship-based aviation support
+293037,Technology,快速反舰综合防御系统,Rapid anti-ship integrated defense system
+293038,Technology,闭环生理过程干预,Closed-loop physiological process intervention
+293039,Technology,无人机蜂群技术,UAV Bee Colony Technology
+293040,Technology,无人机系统,Unmanned aerial vehicle system
+293041,Technology,无人机总体设计航电技术,Avionics Technology for the overall Design of UAV
+293042,Technology,电力系统,Electric power system
+293043,Technology,吸气式高超声速导弹动力技术,Power Technology of aspirated Hypersonic Missile
+293049,Technology,非易失性存储技术,Non-volatile storage technology
+293050,Technology,惯性测量器件,Inertial measuring device
+293051,Technology,多物理场仿真,Multi-physical field simulation
+293052,Technology,就选择性激光烧结技术,Selective laser sintering technology
+293053,Technology,系统级封装（Sip）,System-level encapsulation (Sip)
+293054,Technology,真空泵技术,Vacuum pump technology
+293055,Technology,磁光阱,Magneto-optical trap
+293056,Technology,微型谐振器,Miniature resonator
+293057,Technology,实现活体细胞与惰性结合材料混合的基因编码方法,Gene coding method to realize the mixing of living cells and inert binding materials
+293058,Technology,集成化空间环境侧链网络架构开发,Development of side chain Network Architecture in Integrated Space Environment
+293059,Technology,广域分布式灵敏探测网络,Wide area distributed sensitive detection network
+293060,Technology,分布式多域作战概念,Distributed multi-domain warfare concept
+293061,Technology,无人机回收,UAV recovery
+293062,Technology,总体综合设计,Overall comprehensive design
+293063,Technology,伤口修复模型,Wound repair model
+293064,Technology,基因回路,Gene circuit
+293065,Technology,无人机蜂群编队飞行自主控制技术无人机技术,UAV swarm formation flight autonomous control technology UAV technology
+293067,Technology,跨域真实、虚拟和构造测试平台,"Cross-domain real, virtual and construction test platforms"
+293068,Technology,中性无人水面艇,Neutral unmanned surface boat
+293069,Technology,预置载荷发射技术,Preset load launch technology
+293070,Technology,一体化集成技术,Integrated integration technology
+293071,Technology,制导与导航,Guidance and navigation
+293072,Technology,障碍规避,Obstacle avoidance
+293073,Technology,基因功能注释,Gene function annotation
+293074,Technology,飞行试验,Flight test
+293075,Technology,旋翼飞行器,Rotor aircraft
+293076,Technology,高超声速飞行器,Hypersonic vehicle
+293077,Technology,总体设计技术高超声速飞行器,Overall design technology hypersonic vehicle
+293080,Technology,设计/验证工具集开发与集成,Design / verification toolset development and integration
+293081,Technology,自旋电子器件,Spintronic device
+293082,Technology,混合信号集成电路,Mixed signal integrated circuit
+293083,Technology,芯片级锁模激光器,Chip-level mode-locked laser
+293084,Technology,低功率传感器技术,Low power sensor technology
+293085,Technology,"""系统之系统""体系架构","The architecture of ""system of system"""
+293087,Technology,模型集成语言开发,Model integration language development
+293088,Technology,代工厂配置工具开发与集成,Development and integration of foundry configuration tools
+293089,Technology,复合材料胶结工艺过程控制,Control of bonding process of composite materials
+293090,Technology,过渡金属硫化物,Transition metal sulphide
+293091,Technology,芯片级波导光学陀螺仪,Chip-level waveguide optical gyroscope
+293092,Technology,光子集成,Photonic integration
+293093,Technology,宽带毫米波放大器,Broadband millimeter wave amplifier
+293094,Technology,三维建模,Three-dimensional modeling
+293095,Technology,激光扫描技术,Laser scanning technology
+293096,Technology,电子设计自动化技术（Eda）,Electronic Design Automation Technology (Eda)
+293097,Technology,芯片级原子钟,Chip-level atomic clock
+293098,Technology,光学频率合成技术,Optical frequency synthesis technology
+293099,Technology,工程生物材料性能测试,Performance Test of Engineering Biomaterials
+293100,Technology,用于气象测量的多物理模型仿真,Multi-physical Model Simulation for Meteorological Measurement
+293101,Technology,具有实时弹性响应能力的复杂系统设计,Design of complex system with real-time elastic response
+293102,Technology,智能数据评估技术,Intelligent data Evaluation Technology
+293103,Technology,智能算法博弈技术,Intelligent algorithm Game Technology
+293104,Technology,隐藏布放,Hide the layout
+293105,Technology,可制造性分析反馈工具开发与集成,Development and Integration of feedback tools for manufacturability Analysis
+293106,Technology,微型加速度计,Micro accelerometer
+293107,Technology,数字建模仿真技术,Digital modeling and simulation technology
+293108,Technology,物理级建模仿真技术,Physical level Modeling and Simulation Technology
+293109,Technology,外部存储控制器技术,External storage controller technology
+293110,Technology,机器学习,Machine learning
+293111,Technology,专用集成电路（Asic）,Application specific integrated circuit (Asic)
+293112,Technology,频率梳,Frequency comb
+293113,Technology,可调谐激光器,Tunable laser
+293114,Technology,活性材料结构特征表征方法与工具,Characterization methods and tools of structural characteristics of active Materials
+293115,Technology,可促进新技术概念产生的先进多人游戏技术开发,The development of advanced multiplayer game technology that can promote the emergence of new technology concepts.
+293116,Technology,增财制造技术,Wealth-increasing manufacturing technology
+293117,Technology,集成控制系统,Integrated control system
+293118,Technology,水下组网通信,Underwater networking communication
+293119,Technology,深海长时耐压防腐,Long-term pressure resistance and anticorrosion in deep sea
+293120,Technology,先进传感器和通信技术,Advanced sensor and communication technology
+293121,Technology,水下组网通信技术,Underwater networking Communication Technology
+293122,Technology,建模仿真技术,Modeling and simulation technology
+293123,Technology,水下战术通信网络系统,Underwater tactical communication network system
+293124,Technology,能源与通信器件,Energy and communication devices
+293125,Technology,协同环境开发,Collaborative environment development
+293126,Technology,微机器人组装技术,Micro-robot assembly technology
+293127,Technology,微纳机电系统技术,Micro-nano mechatronics system technology
+293128,Technology,缓存架构技术,Cache architecture technology
+293129,Technology,异步电路处理器,Asynchronous circuit processor
+293130,Technology,稀疏数组搜索,Sparse array search
+293131,Technology,精密原子传感器,Precision atomic sensor
+293132,Technology,嵌入式微处理器,Embedded microprocessor
+293133,Technology,工程生物材料生长控制,Growth control of engineering biomaterials
+293134,Technology,工程光学材料设计优化,Optimization of Engineering Optical material Design
+293135,Technology,毫米级/厘米级工程材料光学系统研制,Development of optical system for millimeter / centimeter engineering materials
+293136,Technology,分子级材料合成方法,Synthesis methods of Molecular Materials
+293137,Technology,纳米组装和微组装工艺,Nano assembly and micro assembly process
+293138,Technology,无Gps导航的复杂系统及子系统操控技术,Complex system without Gps Navigation and Subsystem Control Technology
+293139,Technology,微机电系统技术,Micro-electromechanical system technology
+293140,Technology,自主性,Autonomy
+293141,Technology,预置载荷发射,Preset load launch
+293142,Technology,深海长时耐压防腐技术,Long-term pressure-resistant and anticorrosive technology in deep sea
+293143,Technology,被动声纳探潜技术,Passive sonar submarine detection technology
+293144,Technology,轻质高强韧光缆材料,Lightweight high strength and toughness fiber optic cable material
+293145,Technology,金属增材制造零件快速合格性鉴定,Rapid qualification identification of parts manufactured by metal augmentation
+293146,Technology,二维材料,Two-dimensional material
+293147,Technology,六方氮化硼,Hexagonal boron nitride
+293148,Technology,真空电子放大器,Vacuum electronic amplifier
+293149,Technology,非冯诺依曼架构,Non-von Neumann architecture
+293150,Technology,微纳机电系统器件,Micro-nano electromechanical system devices
+293151,Technology,光隔离器,Optical isolator
+293152,Technology,晶圆级原子钟,Wafer atomic clock
+293153,Technology,互补金属氧化物半导体射频器件,Complementary metal oxide semiconductor radio frequency devices
+293154,Technology,非线性光学,Nonlinear optics
+293155,Technology,可加速基础研究和应用研究的数据收集和可视化工具开发,Data collection and visualization tool development that can accelerate basic and applied research
+293156,Technology,生物系统电磁信号测试技术,Testing Technology of electromagnetic signal in Biological system
+293157,Technology,高分辨率耦合空间环境模型开发,Development of High Resolution coupled Space Environment Model
+293158,Technology,压电致动器技术,Piezoelectric actuator technology
+293159,Technology,深海能源自持及补给,Self-support and replenishment of deep-sea energy
+293160,Technology,远程激活技术,Remote activation technology
+293161,Technology,深海移动探潜技术,Deep-sea mobile submarine detection technology
+293162,Technology,浮标供电技术,Buoy power supply technology
+293163,Technology,垂直起降,Vertical takeoff and landing
+293164,Technology,任务载荷技术,Mission payload technology
+293165,Technology,深海能源自持及补给技术,Deep-sea energy self-sustaining and replenishment technology
+293166,Technology,辅助决策技术,Auxiliary decision-making technology
+293167,Technology,小翼技术、外形技术、涂层技术,"Winglet technology, shape technology, coating technology"
+293168,Technology,深水泊定技术,Deep water berthing technology
+293169,Technology,基因集成电路,Gene integrated circuit
+293170,Technology,Dna合成与组装,Synthesis and assembly of Dna
+293171,Technology,高速旋翼飞行器总体设计技术动力技术,Overall Design Technology and Power Technology of High Speed rotor aircraft
+293172,Technology,超燃冲压发动机设计技术,Scramjet design technology
+293173,Technology,大包线气动力/热设计技术,Aerodynamic / thermal design technology of large envelope
+293174,Technology,高超声速导弹制导控制,Guidance and control of hypersonic missile
+293175,Technology,鲁棒自适应制导导航与控制技术,Robust Adaptive guidance Navigation and Control Technology
+293176,Technology,涡轮基组合循环发动机设计技术试验与试飞技术,Design Technology Test and Flight Test Technology of Turbine-based combined cycle engine
+293177,Technology,地面试验,Ground test
+293178,Technology,反蜂群人工智能技术装备体系,Anti-bee colony artificial intelligence technology and equipment system
+293179,Technology,飞行器控制,Aircraft control
+293180,Technology,多机协同自主控制技术人机工程,Multi-machine cooperative autonomous control technology ergonomics
+293181,Technology,人机环交互设计技术,Interactive design technology of man-machine loop
+293182,Technology,自主飞行控制技术航电技术,Autonomous flight control technology avionics technology
+293183,Technology,激光指示,Laser indication
+293184,Technology,结构功能一体化航电技术,Avionics technology with integration of structure and function
+293185,Technology,无人机发射,Drone launch
+293186,Technology,无人机技术,UAV technology
+293187,Technology,无人机蜂群飞行试验,UAV swarm flight test
+293188,Technology,新概念旋翼飞行器,New concept rotor aircraft
+293189,Technology,分布式电推进技术机电技术,Distributed electric propulsion technology electromechanical technology
+293190,Technology,武器制导导引控制,Weapon guidance and control
+293191,Technology,新概念飞行器,New concept aircraft
+293192,Technology,主动射流控制飞行器总体设计飞行控制技术,Flight Control Technology for overall Design of active Jet Control aircraft
+293193,Technology,微小型无人机总体设计技术飞行控制,Overall Design Technology and Flight Control of Micro UAV
+293194,Technology,数据链,Data link
+293195,Technology,电池技术,Battery technology
+293196,Technology,高能量密度电源、航电技术,High energy density power supply and avionics technology
+293197,Technology,飞行器自主飞行技术,Autonomous flight technology of aircraft
+293198,Technology,天线、射频、信号处理、调制和网络优化技术,"Antenna, radio frequency, signal processing, modulation and network optimization technology"
+293199,Technology,物理生物特征提取技术,Physical and biological feature extraction technology
+293200,Technology,网络威胁描述技术,Network threat description Technology
+293201,Technology,信号分析技术,Signal analysis technology
+293202,Technology,有限网络资源分配技术,Limited Network Resource allocation Technology
+293203,Technology,传感采集技术,Sensor acquisition technology
+293204,Technology,网络管理和信息开发技术,Network management and information development technology
+293205,Technology,中等口径制导炮弹技术,Technology of medium caliber guided projectile
+293206,Technology,未来近防武器,Future close defense weapons
+293207,Technology,生物传感器,Biosensor
+293208,Technology,无人机蜂群体系架构技术试验与试飞技术,UAV Bee Colony Architecture Technology Test and Flight Test Technology
+293209,Technology,开放式任务系统,Open task system
+293210,Technology,吸气式高超声速导弹,Air-breathing hypersonic missile
+293211,Technology,轻质防热结构设计技术动力技术,Design technology of lightweight heat-proof structure power technology
+293212,Technology,新概念控制技术,New concept control technology
+293213,Technology,主动射流控制技术,Active jet control technology
+293214,Technology,装备体系架构研究,Research on equipment Architecture
+293215,Technology,无人机自主控制技术飞行器控制,Autonomous Control Technology of UAV aircraft Control
+293216,Technology,人机接口,Man-machine interface
+293217,Technology,电子技术,Electronic technology
+293218,Technology,临近空间飞艇,Near space airship
+293219,Technology,太阳能动力系统,Solar power system
+293220,Technology,频谱重用改进技术,Improved Technology of Spectrum reuse
+293221,Technology,漏洞修补技术,Vulnerability repair technology
+293222,Technology,可理解语境的信息路由技术,Information routing Technology based on understandable context
+293223,Technology,分布式相干传输技术,Distributed coherent transmission technology
+293224,Technology,系统模拟计算技术,System simulation computing technology
+293225,Technology,反舰导弹防御系统,Anti-ship missile defense system
+293226,Technology,基因模块化,Gene modularization
+293227,Technology,新概念无人机,New concept UAV
+293228,Technology,车辆和无人机接口技术,Interface Technology between vehicle and UAV
+293229,Technology,飞行器总体,Aircraft overall
+293230,Technology,下一代图形操作界面航电技术,Next Generation Avionics Technology with graphical operating Interface
+293231,Technology,目标指示和可视化工具,Target indication and visualization tools
+293232,Technology,飞行控制与管理技术,Flight control and management technology
+293233,Technology,自动干扰波形取证技术,Automatic interference Waveform Forensics Technology
+293234,Technology,嵌入式计算技术,Embedded computing technology
+293235,Technology,宽带扩频通信技术,Broadband spread Spectrum Communication Technology
+293236,Technology,目标识别技术,Target recognition technology
+293237,Technology,网络分散和自适应网络技术,Network dispersion and Adaptive Network Technology
+293238,Technology,特征学习技术,Feature learning technology
+293239,Technology,图像分析技术,Image analysis technology
+293240,Technology,综合数据融合技术,Integrated data fusion technology
+293241,Technology,行为检测技术,Behavior detection technology
+293242,Technology,语义映射和反馈技术,Semantic mapping and feedback technology
+293243,Technology,数据交互技术,Data interaction technology
+293244,Technology,动态自主性技术,Dynamic autonomy technology
+293245,Technology,飞行器推进系统,Aircraft propulsion system
+293246,Technology,兆瓦级电动机技术,Megawatt motor technology
+293247,Technology,助推滑翔式高超声速导弹,Booster glider hypersonic missile
+293248,Technology,高裕度低成本热结构/材料设计与制造技术,Thermal structure / material Design and Manufacturing Technology with High margin and low cost
+293249,Technology,高超声速动力技术,Hypersonic power technology
+293250,Technology,大口径双波段有源相控阵雷达动力技术,Power Technology of large Aperture dual-band active phased Array Radar
+293251,Technology,传感器融合和数据分析工具测试技术,Testing Technology of Sensor Fusion and data Analysis tools
+293252,Technology,基于文本的异构数据源读取技术,Text-based heterogeneous data Source Reading Technology
+293253,Technology,数据关联技术,Data association technology
+293254,Technology,可解释的机器学习技术,Interpretable machine learning techniques
+293255,Technology,大规模内存技术,Large-scale memory technology
+293256,Technology,传感器分析技术,Sensor analysis technology
+293257,Technology,软件算法复杂度技术,Software algorithm complexity technology
+293258,Technology,利用非线性系统的能力模拟非线性动力系统的计算技术,The Computing Technology of simulating nonlinear dynamic system by using the ability of nonlinear system
+293259,Technology,运行时框架开发技术,Runtime framework development technology
+293260,Technology,射频系统的模块化架构技术,Modular Architecture Technology of RF system
+293261,Technology,芯片推理模块架构,Chip reasoning module architecture
+293262,Technology,实验测试和验证技术,Experimental testing and verification technology
+293263,Technology,自动化计算智能技术,Intelligent Technology of automatic Computing
+293264,Technology,推理引擎技术,Inference engine technology
+293265,Technology,动力技术,Power technology
+293266,Technology,涡轮基组合循环发动机地面试验技术,Ground Test Technology of Turbine-based combined cycle engine
+293267,Technology,针对多方向蜂群防御的智能开放式架构研究,Research on Intelligent Open Architecture for Multi-directional Bee Colony Defense
+293268,Technology,飞行控制与管理,Flight control and management
+293269,Technology,飞行器控制与管理,Aircraft control and management
+293270,Technology,不依赖Gps的导航技术,Navigation technology that does not depend on Gps
+293271,Technology,空地协同先进数据链电子技术,Advanced data Link Electronic Technology for Air-to-ground Cooperation
+293272,Technology,高效光电转换,High efficiency photoelectric conversion
+293273,Technology,复杂环境导航飞行控制技术,Flight Control Technology of Navigation in complex Environment
+293274,Technology,无线链路进行数据传输技术,Data Transmission Technology in Wireless Link
+293275,Technology,测试与内存和加速处理管道接口技术,Test and memory and accelerated processing pipeline interface technology
+293276,Technology,虚拟测试技术,Virtual testing technology
+293277,Technology,信号处理器件阵列,Signal processing device array
+293278,Technology,社会行为建模技术,Social behavior modeling technology
+293279,Technology,网络管理与数据分析技术,Network Management and data Analysis Technology
+293280,Technology,安全多方计算技术,Secure Multi-party Computing Technology
+293281,Technology,模糊通信协议技术,Fuzzy communication protocol technology
+293282,Technology,资源感知分析技术,Resource-aware analysis technology
+293283,Technology,可靠性监测及控制技术,Reliability Monitoring and Control Technology
+293284,Technology,知识表征和知识提取技术,Technology of knowledge representation and knowledge extraction
+293285,Technology,前沿技术,Cutting edge technology
+293286,Technology,导航技术,Navigation technology
+293287,Technology,恶意网络操作跟踪技术,Malicious Network Operation tracking Technology
+293288,Technology,本地化现场测试技术,Localized field testing technology
+293289,Technology,关键实体和活动提取技术,Key entity and activity extraction techniques
+293290,Technology,系统信号处理技术,System signal processing technology
+293291,Technology,信号建模技术,Signal modeling technology
+293292,Technology,人机交互技术,Human-computer interaction technology
+293293,Technology,自适应接收处理消除干扰信号技术,Adaptive receiving and processing to eliminate interference signal
+293294,Technology,信号处理算法,Signal processing algorithm
+293295,Technology,无Gps导航技术,Gps-free navigation technology
+293296,Technology,侧信道攻击漏洞检测技术,Vulnerability Detection Technology of side Channel attack
+293297,Technology,图像处理技术,Image processing technology
+293298,Technology,数据采集技术,Data acquisition technology
+293299,Technology,反机器人网络技术,Anti-robot network technology
+293300,Technology,基于自旋的多功能神经形态计算技术,Multi-functional Neural Morphology Computing Technology based on spin
+293301,Technology,网络优化器技术,Network optimizer technology
+293302,Technology,媒体数据采集技术,Media data acquisition technology
+293303,Technology,模拟侧通道集成技术,Analog side Channel Integration Technology
+293304,Technology,编译器技术,Compiler technology
+293305,Technology,射频环境评估技术,Radio Frequency Environmental Assessment Technology
+293306,Technology,数据融合处理技术,Data fusion processing technology
+293307,Technology,雷达数据链路控制技术,Radar data Link Control Technology
+293308,Technology,网络推理和Qos管理技术,Network reasoning and Qos Management Technology
+293309,Technology,原型无线电分系统性能评估技术,Performance Evaluation Technology of prototype Radio Subsystem
+293310,Technology,数据分析技术,Data analysis technology
+293311,Technology,智能博弈技术,Intelligent game technology
+293312,Technology,人机协作推理软件技术,Human-computer cooperative reasoning software technology
+293313,Technology,网络弹性和管理权衡技术,Network resilience and management tradeoff technology
+293314,Technology,信息网络框架技术,Information Network Framework Technology
+293315,Technology,网络检索和抓取技术,Network Retrieval and crawling Technology
+293316,Technology,智能频谱技术,Intelligent spectrum technology
+293317,Technology,自主射频传感器配置技术,Configuration Technology of Autonomous Radio Frequency Sensor
+293318,Technology,先进射频孔径和机体集成技术,Advanced RF Aperture and body Integration Technology
+293319,Technology,人机集成技术,Man-machine integration technology
+293320,Technology,可编程协议技术,Programmable protocol technology
+293321,Technology,射频骨干网测试技术,Testing Technology of RF backbone Network
+293322,Technology,安全解析器构建技术,Construction technology of security parser
+293323,Technology,可伸缩的数据库技术和挖掘算法,Scalable database technology and mining algorithm
+293324,Technology,网络安全迅速配置软件技术,Rapid configuration Software Technology for Network Security
+293325,Technology,数据融合技术,Data fusion technology
+293326,Technology,突发模式系统技术,Burst mode system technology
+293327,Technology,网络机动和欺骗技术,Network mobility and deception technology
+293328,Technology,僵尸网络跟踪技术,Botnet tracking technology
+293329,Technology,实时学习技术,Real-time learning technology
+293330,Technology,语言资源创建技术,Language Resource creation Technology
+293331,Technology,分布式态势理解技术,Distributed situation understanding Technology
+293332,Technology,分布式计算技术,Distributed computing technology
+293333,Technology,通信平台自主检测技术,Autonomous Detection Technology of Communication platform
+293334,Technology,社会工程攻击防御技术,Social engineering attack defense technology
+293335,Technology,通用语义表示技术,General semantic representation technology
+293336,Technology,代码混淆技术,Code obfuscation technology
+293337,Technology,软件对抗技术,Software countermeasure technology
+293338,Technology,软件体系结构、开发环境和工具集、验证环境技术,"Software architecture, development environment and toolset, verification environment technology"
+293339,Technology,环境理解技术,Environmental understanding technology
+293340,Technology,3D成像技术,3D imaging technology
+293341,Technology,网络战场空间分析技术,Spatial Analysis Technology of Network Battlefield
+293342,Technology,工作流编译器技术,Workflow compiler technology
+293343,Technology,在线信息传播仿真技术,Simulation Technology of online Information dissemination
+293344,Technology,分布式战术安全管理技术,Distributed Tactical Security Management Technology
+293345,Technology,系统集成技术,System integration technology
+293346,Technology,语言算法开发技术,Language algorithm Development Technology
+293347,Technology,波形合成技术,Waveform synthesis technology
+293348,Technology,分布式自适应规划与控制,Distributed adaptive planning and control
+293349,Technology,开源卫星数据整合技术,Open source satellite data integration technology
+293350,Technology,隐私保护的计算技术,Privacy-preserving Computing Technology
+293351,Technology,射频和光电磁信号监视技术,Radio Frequency and Optical electromagnetic signal Monitoring Technology
+293352,Technology,因果模型开发技术,Causal model development technology
+293353,Technology,新质武器,New quality weapon
+293354,Technology,多模精确制导技术,Multi-mode precision guidance technology
+293355,Technology,3D打印技术,3D printing technology
+293356,Technology,网络化威胁感知与协同探测技术,Network threat Awareness and Collaborative Detection Technology
+293357,Technology,激光指示器技术,Laser indicator technology
+293358,Technology,生物底盘技术,Biological chassis technology
+293359,Technology,可控基因编辑,Controllable gene editing
+293360,Technology,基因修复,Gene repair
+293361,Technology,生物标志物检测技术,Biomarker detection technology
+293362,Technology,实时分析决策系统,Real-time analysis and decision system
+293363,Technology,动态配置协议堆栈技术,Dynamic configuration protocol stack technology
+293364,Technology,通信特征评估最终技术,The final Technology of Communication feature Evaluation
+293365,Technology,信息开发和融合技术,Information development and fusion technology
+293366,Technology,毫米波空间复用技术,Millimeter wave spatial multiplexing technology
+293367,Technology,频谱共享系统和分离机制、频谱共享支撑技术、理论性能极限和接地设计技术,"Spectrum sharing system and separation mechanism, spectrum sharing support technology, theoretical performance limit and grounding design technology"
+293368,Technology,复杂模型自动整合技术,Automatic Integration of complex models
+293369,Technology,创新人机混合交互技术,Innovate the technology of mixed human-computer interaction
+293370,Technology,生成安全配置技术,Generate security configuration technology
+293371,Technology,现实网络数据技术,Real network data technology
+293372,Technology,紧凑型多频激光系统技术,Compact multi-frequency laser system technology
+293373,Technology,大幅降低所需数据速率、处理时间的技术,Technology that significantly reduces the required data rate and processing time
+293374,Technology,体系对抗,System confrontation
+293375,Technology,低成本无人系统,Low-cost unmanned system
+293376,Technology,分布式任务规划技术,Distributed task planning technology
+293377,Technology,固体火箭发动机技术,Solid rocket motor technology
+293378,Technology,大功率助推器技术,High-power booster technology
+293379,Technology,尾翼飞控技术,Tail flight control technology
+293380,Technology,多传感器数据融合技术,Multi-sensor data fusion technology
+293381,Technology,微光夜视技术,Low light level night vision technology
+293382,Technology,梯度折射率光学材料开发,Development of gradient Index Optical Materials
+293383,Technology,梯度折射率光学元件批量化制造工艺,Batch Manufacturing Technology of gradient Index Optical elements
+293384,Technology,射频电压放大器,Radio frequency voltage amplifier
+293385,Technology,毫米波高阶调制技术,Millimeter wave high-order modulation technology
+293386,Technology,依托在线资源建立定性模型技术,The technology of establishing qualitative model based on online resources
+293387,Technology,可互操作技术,Interoperable technology
+293388,Technology,领域专家知识融合技术,Domain expert knowledge fusion technology
+293389,Technology,社交媒体分析,Social media analysis
+293390,Technology,高灵敏度焦平面阵列（Fpa）,High sensitivity focal plane array (Fpa)
+293391,Technology,在线自适应算法技术,Online adaptive algorithm technology
+293392,Technology,算法训练技术,Algorithm training technique
+293393,Technology,军事需求与作战概念开发,Military requirements and the Development of operational concept
+293394,Technology,先进车辆总线技术,Advanced vehicle bus technology
+293395,Technology,新式混合履带/轮式系统,New hybrid crawler / wheeled system
+293396,Technology,高速、连续或其他先进的悬挂系统,"High-speed, continuous or other advanced suspension system"
+293397,Technology,芯片级陀螺仪,Chip level gyroscope
+293398,Technology,数字化微系统传感器,Digital microsystem sensor
+293399,Technology,自主规划与控制,Autonomous planning and control
+293400,Technology,武器发射控制,Weapon launch control
+293401,Technology,布放回收,Layout and recovery
+293402,Technology,自主导航与定位,Autonomous navigation and positioning
+293403,Technology,人类挑战模型,Human Challenge Model
+293404,Technology,小型无人机高紊流环境控制技术结构技术,Control Technology and structure Technology of High turbulence Environment for small UAV
+293405,Technology,异构网络和先进通信技术,Heterogeneous networks and advanced communication technology
+293406,Technology,集成毫米波技术,Integrated millimeter wave technology
+293407,Technology,系统架构技术,System architecture technology
+293408,Technology,参数化模型技术,Parameterized model technology
+293409,Technology,可编程软件技术,Programmable software technology
+293410,Technology,可理解的电子数据格式描述符技术,Understandable Electronic data format descriptor Technology
+293411,Technology,攻击测试技术,Attack testing technology
+293412,Technology,系统集成与评估技术,System integration and evaluation technology
+293413,Technology,高带宽接收机技术,High bandwidth receiver technology
+293414,Technology,智能供应链管理技术,Intelligent supply chain Management Technology
+293415,Technology,实时态势感知技术,Real-time situation Awareness Technology
+293416,Technology,新型空空作战概念开发技术机载武器技术,New concept Development Technology of Air-to-Air Warfare Airborne weapon Technology
+293417,Technology,运输-贮存-发射箱技术,Transport-storage-launch box technology
+293418,Technology,人体行为智能感知技术,Intelligent perception Technology of Human behavior
+293419,Technology,电子攻击和赛博攻击技术,Electronic attack and cyber attack technology
+293420,Technology,可用于纳米级拓扑激发的电子材料开发,Development of Electronic Materials for Nano-scale Topology excitation
+293421,Technology,生物信号解码算法,Biological signal decoding algorithm
+293422,Technology,植物病毒基因编辑,Plant virus gene editing
+293423,Technology,多组学技术,Multi-group learning technology
+293424,Technology,高效集成纳米光子技术,Efficient integration of nano-photon technology
+293425,Technology,仿真测试技术,Simulation test technology
+293426,Technology,网络容错技术,Network fault-tolerant technology
+293427,Technology,网络防御技术,Network defense technology
+293428,Technology,网络攻击检测技术,Network attack Detection Technology
+293429,Technology,多模推进的空空导弹总体设计技术,Overall Design Technology of Air-to-Air Missile with Multi-mode Propulsion
+293430,Technology,自适应指挥控制技术,Adaptive command and control technology
+293431,Technology,激光半主动制导技术,Laser semi-active guidance technology
+293432,Technology,弹道飞行控制技术,Ballistic flight control technology
+293433,Technology,分布式数据管理技术,Distributed data management technology
+293434,Technology,自恢复网络技术,Self-recovery network technology
+293435,Technology,轻型超材料技术,Light metamaterial technology
+293436,Technology,有机高分子材料技术,Technology of Organic Polymer Materials
+293437,Technology,先进复合材料技术,Advanced composite technology
+293438,Technology,复杂环境建模仿真技术,Modeling and Simulation Technology of complex Environment
+293439,Technology,梯度折射率光学元件检测,Detection of gradient index optical elements
+293440,Technology,基因编辑,Gene editing
+293441,Technology,可编辑基因表达技术,Editable gene expression technique
+293442,Technology,人机环交互设计技术飞行控制,Man-machine loop interaction design technology flight control
+293443,Technology,可视化语言协同技术,
+293444,Technology,挖掘引擎技术,Mining engine technology
+293445,Technology,理解组合式系统技术,Understand the technology of combined system
+293446,Technology,指控节点算法和软件技术,Command node algorithm and software technology
+293447,Technology,多域场景评估和测试技术,Multi-domain scenario Evaluation and testing Technology
+293448,Technology,高能激光器技术,High energy laser technology
+293449,Technology,360°威胁探测技术,360 °threat detection technology
+293450,Technology,自动驾驶技术,Self-driving technology
+293451,Technology,片上系统（Soc）,System on Chip (Soc)
+293452,Technology,生物信号检测技术,Biological signal detection technology
+293453,Technology,高效光电转换机电技术,High efficiency photoelectric conversion electromechanical technology
+293454,Technology,评估器技术,Evaluator technology
+293465,Technology,增强/虚拟现实的平视显示器技术,Heads-up display Technology of enhanced / Virtual reality
+293466,Technology,梯度折射率光学元件设计,Design of gradient Index Optical element
+293467,Technology,低阈值继电器,Low threshold relay
+293468,Technology,合成生物学,Synthetic biology
+293469,Technology,缺陷干扰颗粒,Defect interference particle
+293470,Technology,动态体外模型,Dynamic in vitro model
+293471,Technology,病毒进化数学模型,Mathematical model of virus evolution
+293472,Technology,自主飞行控制技术,Autonomous flight control technology
+293473,Technology,伪装生成器技术,Camouflage generator technology
+293474,Technology,增材制造技术,Additional material manufacturing technology
+293485,Technology,非平衡态材料系统性能探测,Performance detection of non-equilibrium material system
+293486,Technology,昆虫载体基因传递,Insect vector gene transmission
+293487,Technology,条件致死遗传系统,Conditional lethal genetic system
+293488,Technology,视频Sar图像处理技术,Video Sar Image processing Technology
+293505,Technology,组网通信,Networking communication
+293506,Technology,回顾性数据分析,Retrospective data analysis
+293507,Technology,网络隔离技术,Network isolation technology
+293508,Technology,威胁分析技术,Threat analysis technology
+293509,Technology,实时导航算法技术,Real-time Navigation algorithm Technology
+293510,Technology,核热推进技术,Nuclear thermal propulsion technology
+293525,Technology,基因转化,Gene transformation
+293526,Technology,基因组完整性,Genomic integrity
+293527,Technology,小型低成本可消耗空中发射回收无人机总体设计技术飞行控制,Overall Design Technology and Flight Control of small and low-cost consumable Air launch recovery UAV
+293528,Technology,电力技术,Electric power technology
+293529,Technology,固体氧化物燃料电池,Solid oxide fuel cell
+293530,Technology,人机工程,Ergonomics
+293531,Technology,广域网实时分析技术,Real-time Analysis Technology of wide area Network
+293532,Technology,导航软件体系架构,Navigation software architecture
+293533,Technology,计算机硬件架构技术,Computer hardware architecture technology
+293545,Technology,空中对接装置结构设计技术,Structure Design Technology of Air docking device
+293546,Technology,小型无人机空中对接装置结构设计与优化技术,Structure Design and Optimization Technology of Air docking device for small UAV
+293547,Technology,临近空间飞行器,Near space vehicle
+293548,Technology,临近空间超高航时飞行器概念设计动力技术,Power Technology for Conceptual Design of aircraft during Super High Navigation in near Space
+293549,Technology,导航硬件架构,Navigation hardware architecture
+293550,Technology,对抗性人工智能技术,Antagonistic artificial intelligence technology
+293565,Technology,态势感知技术,Situational awareness technology
+293585,Technology,高功率放大器,
+294555,Technology,量子通信,Quantum communication
+294590,Technology,量子计算,Quantum computation
+294630,Technology,量子存储器,Quantum memory
+294665,Technology,量子网络,Quantum network
+294666,Technology,量子材料,Quantum material
+294922,Technology,外形技术,Shape technology
+295047,Technology,激光束,Laser beam
+295107,Technology,涂层技术,Coating technology
+295166,Technology,纳米光子,Nanometer photon
+295257,Technology,量子技术,Quantum technology
+295328,Technology,系统之系统体系架构,System architecture of the system
+296129,Technology,量子处理器,Quantum processor
+298709,Technology,量子位操作,Qubit operation
+299547,Technology,小翼技术,Winglet technology
+1143562,Technology,神经干预与调控技术,Neural intervention and regulation techniques
+1143569,Technology,人工智能基础和关键技术,The basis and key Technologies of artificial Intelligence
+1143578,Technology,脑和神经损伤功能修复技术,Functional repair techniques for brain and nerve injury
+1143580,Technology,神经接口技术,Neural interface technology
+1323185,Technology,硬件安全,Hardware security
+1323186,Technology,网络信息安全,Network information security
+1323187,Technology,软件开发,Software development
+1323188,Technology,物理应用,Physical application
+1323189,Technology,化学应用,Chemical application
+1323190,Technology,区块链,Block chain
+1323191,Technology,分布式一致性协议,Distributed consistency protocol
+1323192,Technology,系统级安全,System-level security
+1323193,Technology,电路安全,Circuit safety
+1323194,Technology,安全软硬件体系架构,Security hardware and software architecture
+1323195,Technology,可信设计部件,Trusted design component
+1323196,Technology,数字集成,Digital integration
+1323198,Technology,情报搜集与处理技术,Information collection and processing technology
+1323199,Technology,监视与侦查技术,Surveillance and investigation technology
+1323200,Technology,化学合成技术,Chemical synthesis technology
+1323201,Technology,物理智能技术,Physical intelligence technology
+1323202,Technology,战术自主,Tactical autonomy
+1323203,Technology,创新生态系统,Innovation ecosystem
+1323204,Technology,虚拟货币,Virtual currency
+1323205,Technology,智能设计,Intelligent design
+1323206,Technology,开源硬件自主规划与控制,Independent planning and control of open source hardware
+1323207,Technology,芯片设计,Chip design
+1323212,Technology,智能冲突检测,Intelligent conflict detection
