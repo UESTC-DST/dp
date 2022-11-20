@@ -38,7 +38,7 @@ keywords_str = get_keywords("A dog is here.")
 
 **文件:** cal_class.py
 
-**功能:** 根据`text`分类，列表列表由key_tech.csv指定。
+**功能:** 根据`text`分类，类别列表由key_tech.csv指定。
 
 **安装依赖:**
 ```
