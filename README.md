@@ -8,7 +8,7 @@
 </summary>
 <br/>
 
-**文件:** cal_class.py
+**文件:** cal_keywords.py
 
 **功能:** 从`text`中提取n个关键字，并返回@@相隔的字符串。
 
@@ -36,7 +36,7 @@ keywords_str = get_keywords("A dog is here.")
 </summary>
 <br/>
 
-**文件:** cal_keywords.py
+**文件:** cal_class.py
 
 **功能:** 根据`text`分类，列表列表由key_tech.csv指定。
 
